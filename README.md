@@ -78,7 +78,7 @@ python --version
 # 2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git https://github.com/artespowww/Trabalho_Grafos_Gabriel_2B.git
 ```
 
 Entrar na pasta:
