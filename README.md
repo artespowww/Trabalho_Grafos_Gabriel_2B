@@ -113,10 +113,6 @@ Execute:
 python main.py
 ```
 
----
-
-
----
 
 ---
 
@@ -202,8 +198,6 @@ Isso significa que o número de combinações cresce exponencialmente conforme a
 
 ---
 
-
----
 
 # 📊 Visualização Gráfica
 
